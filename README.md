@@ -5,7 +5,7 @@ Releitura moderna e **mobile-first** de um site de dermatologia clínica, com es
 ## ✨ Funcionalidades
 
 - Layout responsivo, com navegação específica para dispositivos móveis.
-- Seções de apresentação, especialidades, filosofia, agendamento e contato.
+- Seções de apresentação, especialidades, filosofia, agendamento, blog e contato.
 - Transições suaves, animações ao rolar e respeito a `prefers-reduced-motion`.
 - Calendário interativo ilustrativo com navegação mensal e seleção de horários.
 - HTML, CSS e JavaScript puros: sem build, framework ou dependências de execução.
@@ -27,10 +27,12 @@ Abra `index.html` no navegador ou rode `python3 -m http.server 8000` na raiz e a
 - `styles.css`: identidade visual, responsividade e transições.
 - `script.js`: menu mobile, animações e calendário demonstrativo.
 - `assets/dra-tais-bonilha.webp`: retrato fornecido para a capa e o calendário.
+- `assets/logo-dra-tais-bonilha.png`: logo original fornecida para o cabeçalho.
+- `blog/index.html` e `blog/2/index.html`: arquivo estático do blog com 12 artigos, paginação e links para os textos completos no site oficial.
 
 ## ⚠️ Avisos
 
-**Projeto conceitual, não oficial.** O calendário é somente uma prévia visual inspirada no Cal.com; **não está integrado à plataforma, não coleta dados, não confirma consultas e não apresenta disponibilidade real**. Horários e duração são fictícios. A imagem de capa foi fornecida para representar a Dra. Taís Bonilha Alves. Dados profissionais, links e autorização de uso devem ser revisados antes de qualquer utilização oficial.
+**Projeto conceitual, não oficial.** O calendário é somente uma prévia visual inspirada no Cal.com; **não está integrado à plataforma, não coleta dados, não confirma consultas e não apresenta disponibilidade real**. Horários e duração são fictícios. A imagem de capa foi fornecida para representar a Dra. Taís Bonilha Alves. Dados profissionais, links e autorização de uso devem ser revisados antes de qualquer utilização oficial. O blog exibe resumos originais e direciona para os artigos completos no site oficial.
 
 ## Referência
 
