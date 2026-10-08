@@ -12,7 +12,8 @@ Releitura moderna e **mobile-first** de um site de dermatologia clínica, com es
 
 ## 🚀 Demonstração
 
-Após habilitar o GitHub Pages em **Settings → Pages → Deploy from a branch → main → / (root)**, o site poderá ser acessado em:
+O repositório está configurado para publicar automaticamente no GitHub Pages via GitHub Actions a cada push na `main`.
+Caso seja a primeira publicação, confirme em **Settings → Pages** que a fonte está em **GitHub Actions**.
 
 https://luccazovedi.github.io/dra-tais-bonilha-redesign/
 
