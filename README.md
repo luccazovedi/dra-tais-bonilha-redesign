@@ -26,10 +26,11 @@ Abra `index.html` no navegador ou rode `python3 -m http.server 8000` na raiz e a
 - `index.html`: conteúdo e marcação semântica.
 - `styles.css`: identidade visual, responsividade e transições.
 - `script.js`: menu mobile, animações e calendário demonstrativo.
+- `assets/dra-tais-bonilha.webp`: retrato fornecido para a capa e o calendário.
 
 ## ⚠️ Avisos
 
-**Projeto conceitual, não oficial.** O calendário é somente uma prévia visual inspirada no Cal.com; **não está integrado à plataforma, não coleta dados, não confirma consultas e não apresenta disponibilidade real**. Horários e duração são fictícios. A imagem de capa é ilustrativa e não representa necessariamente a profissional ou o consultório. Dados profissionais, imagens, links e autorização de uso devem ser revisados antes de qualquer utilização oficial.
+**Projeto conceitual, não oficial.** O calendário é somente uma prévia visual inspirada no Cal.com; **não está integrado à plataforma, não coleta dados, não confirma consultas e não apresenta disponibilidade real**. Horários e duração são fictícios. A imagem de capa foi fornecida para representar a Dra. Taís Bonilha Alves. Dados profissionais, links e autorização de uso devem ser revisados antes de qualquer utilização oficial.
 
 ## Referência
 
